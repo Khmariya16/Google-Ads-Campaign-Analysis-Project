@@ -1,6 +1,6 @@
 # Google-Ads-Campaign-Analysis-Project
 
-# 📊 Google Ads Campaign Analysis  
+
 
 ## 📌 Problem Statement  
 Businesses invest heavily in online advertising, but not all campaigns or keywords perform equally. Without proper analysis, money may be wasted on low-performing ads.  
