@@ -77,7 +77,9 @@ Created key marketing metrics for deeper insights:
 ## 📂 Repository Structure  
 
 ├── Google_Ads_Campaign_Analysis_Project.ipynb # Main notebook with analysis
+
 ├── data/ # Dataset (raw & cleaned)
+
 ├── README.md # Project documentation
 
 
